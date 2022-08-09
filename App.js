@@ -40,7 +40,7 @@ export default function App() {
         size: Constants.CELL_SIZE,
         updateFrequency: 10,
         nextMove: 10,
-        xspeed: 0,
+        xspeed: 10,
         yspeed: 0,
         renderer: <Food />,
       },
